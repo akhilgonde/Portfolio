@@ -1319,3 +1319,12 @@ tbody {
   justify-content: space-around;
   margin-bottom: 10px;
 }
+#techstack
+{
+ color: #2c3e50;
+ text-align: center;
+}
+#skil
+{
+  color: whitesmoke;
+}
